@@ -1,4 +1,4 @@
-![CI-CD workflow](https://github.com/github/docs/actions/workflows/yamdb_workflow.yml/badge.svg)
+![CI-CD workflow](https://github.com/AShelpyakov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 # Учебный проект по работе c docker и docker-compose 
 ### Описание
 Изучение работы Docker и Docker-Compose на основе предыдущего учебного
