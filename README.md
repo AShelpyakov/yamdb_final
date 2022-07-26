@@ -1,3 +1,4 @@
+![CI-CD workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 # Учебный проект по работе c docker и docker-compose 
 ### Описание
 Изучение работы Docker и Docker-Compose на основе предыдущего учебного
