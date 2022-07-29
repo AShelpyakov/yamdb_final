@@ -44,3 +44,5 @@ docker-compose exec web python manage.py collectstatic --no-input
 ```
 ### Автор
 Александр Шельпяков
+### Тестовый сервер:
+http://yp.sytes.net/api/v1/titles/
